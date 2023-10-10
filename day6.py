@@ -1,4 +1,5 @@
-# Here is a small project I made for fun.
+# Today I didn't code anything here because the course told me to use Reeborg's World but here is a small project I made for the sake of showing others.
+
 def math():
     a = int(input("Type your first number:\n"))
     b = int(input("Type your second number:\n"))
