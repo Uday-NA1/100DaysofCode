@@ -1,3 +1,5 @@
+# Today I worked with loops.
+
 import random
 # For loop in Python Lists
 fruits = ["Apple", "Peach", "Pear"]
